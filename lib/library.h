@@ -1,0 +1,4 @@
+#ifndef ENCODINGTOH_264_LIBRARY_H
+#define ENCODINGTOH_264_LIBRARY_H
+
+#endif
